@@ -16,8 +16,8 @@
     --color-magenta-400: oklch(0.59 0.22 343.3);
     --spacing: 0.25rem;
     --spacing-155px: 155px;
-    --background-image-background-site: url(../img/background.png);
-    --background-image-background-mobile: url(../img/background-mobile.png);
+    --background-image-background-site: url(/project/img/background.png);
+    --background-image-background-mobile: url(/project/img/background-mobile.png);
     --container-xl: 36rem;
     --container-4xl: 56rem;
     --text-xs: 0.75rem;
